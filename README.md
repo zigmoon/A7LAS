@@ -1,6 +1,6 @@
 # A7LAS - Privacy-First Meta Search or Prompt' Engine 
 [a7las.com](https://a7las.com)
-![A7LAS Logo](https://a7las.com/img/a7las_gradient.png)
+![A7LAS Logo](https://a7las.com/icons/web-app-manifest-512x512.png)
 
 ## 🔍 All the Web in Your Finger Touch
 
