@@ -1,6 +1,6 @@
 # A7LAS - Privacy-First Meta Search Engine
 
-![A7LAS Logo](https://a7las.com/icons/icon-192x192.png)
+![A7LAS Logo](https://a7las.com/icons/web-app-manifest-512x512.png)
 
 ## 🔍 All the Web in Your Finger Touch
 
@@ -93,3 +93,4 @@ meta search engine, privacy search, search aggregator, multi-engine search, priv
 ---
 
 Made with ❤️ for privacy and freedom
+
