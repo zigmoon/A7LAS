@@ -1,0 +1,28 @@
+/* TEAM */
+Developer: A7LAS Team
+Site: https://a7las.com
+Contact: https://a7las.com
+Location: Worldwide
+
+/* THANKS */
+Search Engines: Google, Bing, DuckDuckGo, Brave, Qwant, Startpage, Ecosia, Mojeek, You.com
+Fonts: IBM Plex Mono by Google Fonts
+Community: Open Source Contributors
+
+/* SITE */
+Last update: 2025/10/26
+Standards: HTML5, CSS3, ES6+
+Components: PWA, Service Worker, Manifest
+Software: Privacy-First Meta Search Engine
+Languages: English, Universal
+Doctype: HTML5
+IDE: Visual Studio Code
+
+/* VALUES */
+Privacy First
+No Tracking
+No Ads
+Open Source
+User Freedom
+Fast & Lightweight
+Accessibility
